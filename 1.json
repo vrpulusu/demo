@@ -1,0 +1,40 @@
+{
+  "dealers": [
+    {
+      "dealerId": 0,
+      "name": "Cox",
+      "vehicles": [
+        {
+          "vehicleId": 0,
+          "year": 2008,
+          "make": "Toyota",
+          "model": "Camry"
+        },
+        {
+          "vehicleId": 1,
+          "year": 2010,
+          "make": "Honda",
+          "model": "Accord"
+        }
+      ]
+    },
+    {
+      "dealerId": 1,
+      "name": "AutoTrader",
+      "vehicles": [
+        {
+          "vehicleId": 2,
+          "year": 2012,
+          "make": "Mercedes",
+          "model": "Benz"
+        },
+        {
+          "vehicleId": 3,
+          "year": 2015,
+          "make": "Audi",
+          "model": "Q5"
+        }
+      ]
+    }
+  ]
+}
